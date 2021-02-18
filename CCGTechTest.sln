@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCGTechTest", "CCGTechTest\CCGTechTest.csproj", "{F1704FFD-0895-4DC4-8D47-DF45609A2A28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1704FFD-0895-4DC4-8D47-DF45609A2A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1704FFD-0895-4DC4-8D47-DF45609A2A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1704FFD-0895-4DC4-8D47-DF45609A2A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1704FFD-0895-4DC4-8D47-DF45609A2A28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33707EB2-597D-420E-8119-F779B2B302D1}
+	EndGlobalSection
+EndGlobal
